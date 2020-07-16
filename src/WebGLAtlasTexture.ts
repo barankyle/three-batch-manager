@@ -1,4 +1,4 @@
-import { Texture, Math as ThreeMath, WebGLRenderer, WebGLState } from "three";
+import { Texture, Math as ThreeMath, WebGLRenderer, WebGLState } from "../node_modules/three";
 
 export type TileID = number;
 export type LayerID = number;

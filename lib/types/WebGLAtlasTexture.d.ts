@@ -1,4 +1,4 @@
-import { Texture, WebGLRenderer } from "three";
+import { Texture, WebGLRenderer } from "../node_modules/three";
 export declare type TileID = number;
 export declare type LayerID = number;
 export interface TextureID extends Array<number> {

@@ -1,4 +1,4 @@
-import { RawUniformsGroup, Color, Matrix4, ClampToEdgeWrapping, RepeatWrapping, MirroredRepeatWrapping } from "three";
+import { RawUniformsGroup, Color, Matrix4, ClampToEdgeWrapping, RepeatWrapping, MirroredRepeatWrapping } from "../node_modules/three";
 import WebGLAtlasTexture, { LayerID, UVTransform } from "./WebGLAtlasTexture";
 import { BatchableMesh } from ".";
 
