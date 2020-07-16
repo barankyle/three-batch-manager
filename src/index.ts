@@ -13,7 +13,7 @@ import {
   Vector4,
   Fog,
   FogExp2
-} from "../node_modules/three";
+} from "mozilla-three";
 import WebGLAtlasTexture from "./WebGLAtlasTexture";
 import { vertexShader, fragmentShader, BatchRawUniformGroup } from "./UnlitBatchShader";
 
